@@ -57,7 +57,7 @@ This app uses **bit manipulation** to generate all possible subsets:
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - Maximum **10 elements** allowed (to avoid performance issues)
 - **Duplicate elements** are removed automatically
